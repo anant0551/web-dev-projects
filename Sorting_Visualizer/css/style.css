@@ -10,5 +10,21 @@
 }
 
 nav{
-    background-color: ;
+    background-color: #3b3a3a;
+    color: azure;
+    display: grid;
+    -ms-grid-columns: 30% 60%;
+            grid-template-columns: 30% 60%;
+    -webkit-column-gap: 10%;
+           column-gap: 10%;
+    padding: 0% 5%;
+}
+
+nav .array-input {
+    display: -ms-grid;
+    
+}
+
+nav .array-input #a_size {
+    padding: 5% 0%;
 }
