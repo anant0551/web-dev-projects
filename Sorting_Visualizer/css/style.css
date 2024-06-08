@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Preahvihear', Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav{
+    background-color: ;
+}
